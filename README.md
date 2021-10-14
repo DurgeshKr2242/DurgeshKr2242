@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgeshKr2242&count_private=true)
+
