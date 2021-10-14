@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
@@ -18,6 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Pull Before your Push
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=DurgeshKr2242&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="center" />
+<!-- ![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgeshKr2242&count_private=true&theme=radical&show_icons=true) -->
 
-![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgeshKr2242&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshKr2242&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
