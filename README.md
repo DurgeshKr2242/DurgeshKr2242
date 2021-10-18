@@ -77,6 +77,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/durgesh-kumar-99335a201/">
  <img src="https://img.shields.io/badge/-DurgeshKr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durgesh-kumar-99335a201/"/>
 </a>
+  <a href="https://twitter.com/Durgesh20781026">
+ <img src="https://img.shields.io/badge/-DurgeshKr2242-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Durgesh20781026"/>
+</a>
 <!--  <a href="https://twitter.com/ritikhere307">
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a> -->
