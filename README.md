@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- 
+ <h1>HELLO! I am Durgesh</h1>
 </p align="center">
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
 
