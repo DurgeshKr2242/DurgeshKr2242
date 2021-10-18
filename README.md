@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <a href="mailto: code.durgesh@gmail.com">
  <img src="https://img.shields.io/badge/-code.durgesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.durgesh@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/durgesh-kumar-99335a201/">
  <img src="https://img.shields.io/badge/-DurgeshKr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durgesh-kumar-99335a201/"/>
 </a>
 <!--  <a href="https://twitter.com/ritikhere307">
