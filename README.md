@@ -36,12 +36,8 @@ Here are some ideas to get you started:
 </h3>
 <br> -->
 <samp>
- <img height="120" alt="Hello Everyone" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻!"
-    </p>
+ <img height="100%" alt="Hello Everyone" width="100%" src="https://github.com/DurgeshKr2242/DurgeshKr2242/blob/main/images/me.png" />
+    
 </samp>
 <p align="center">
 
