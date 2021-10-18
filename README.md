@@ -28,7 +28,21 @@ Here are some ideas to get you started:
 
 
 
-# Hello, y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- # Hello, y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<!-- <h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="#">Durgesh Kumar</a></b>
+        </samp><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h3>
+<br> -->
+<samp>
+ <img height="120" alt="Hello Everyone" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
 <p align="center">
 
 </p align="center">
@@ -111,5 +125,15 @@ Here are some ideas to get you started:
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=DurgeshKr2242&theme=redical">
 </p> 
+
+
+<samp>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
 
 
