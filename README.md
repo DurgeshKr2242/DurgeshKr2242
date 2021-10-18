@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 
-
-<p align="center">
 # Hello, y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+
 </p align="center">
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
 
