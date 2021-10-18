@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
- <img src="https://img.shields.io/badge/-MUI-black?style=flat-square&logo=MUI"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <!-- <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/> -->
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
