@@ -116,6 +116,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshKr2242&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+        <a href="https://app.daily.dev/DurgeshKr"><img src="https://api.daily.dev/devcards/a8c520916f854dbbb4bbc8ee6de8d975.png?r=o1d" width="250" alt="Durgesh Kumar's Dev Card"/></a>
 </p> 
 
 <p align = "center">
