@@ -19,22 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Pull Before your Push
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DurgeshKr2242&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="center" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshKr2242&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
-
-
-
-<!-- # Hello, y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-<!-- <h3 align="center">
-        <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="#">Durgesh Kumar</a></b>
-        </samp><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h3>
-<br> -->
 <samp>
  <img height="100%" alt="Hello Everyone" width="100%" src="https://github.com/DurgeshKr2242/DurgeshKr2242/blob/main/images/me.png" />
     
@@ -67,7 +52,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://twitter.com/durgesh2242" target="blank"><img src="https://img.shields.io/twitter/follow/durgesh2242?logo=twitter&style=for-the-badge" alt="durgesh2242" /></a> </p> -->
 
-- 🔭 I’m currently working on [my personal blog site](https://github.com/DurgeshKr2242/personal-blog)
+- 🔭 I’m currently working on ______ (will reveal it soon)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -126,19 +111,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkr2242&" alt="durgeshkr2242" /></p>
 
-<!-- <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=DurgeshKr2242&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshKr2242&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshKr2242&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-        <a href="https://app.daily.dev/DurgeshKr"><img src="https://api.daily.dev/devcards/a8c520916f854dbbb4bbc8ee6de8d975.png?r=o1d" width="250" alt="Durgesh Kumar's Dev Card"/></a>
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DurgeshKr2242&theme=redical">
-</p>  -->
 
 
 <samp>
